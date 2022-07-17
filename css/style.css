@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #dfe6e9;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+
+.header__title {
+  margin: 0;
+}
+
+.homepage__link {
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.pages__links {
+  list-style: none;
+}
